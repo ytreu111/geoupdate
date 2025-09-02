@@ -1,3 +1,3 @@
-module github.com/ytreu111/geoupdate-go
+module github.com/ytreu111/geoupdate
 
-go 1.23
+go 1.25
